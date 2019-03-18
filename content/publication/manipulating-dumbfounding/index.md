@@ -40,17 +40,3 @@ url_pdf = "http://ceur-ws.org/Vol-2259/aics_21.pdf"
 
 +++
 
-
-McHugh, C., McGann, M., Igou, E. R., Kinsella, E. L., (2018, December). Manipulating Moral Dumbfounding: Inhibiting the Identification of Reasons. In R. Brennan, J. Beel, R. Byrne, J.
-Debattista, A. Crotti Junior (Eds). Proceedings for the 26th AIAI Irish Conference on Artificial
-Intelligence and Cognitive Science. Paper presented at the 26th AIAI Irish Conference on Artificial
-Intelligence
- and
- Cognitive
- Science,
- (pp.
- 220-231)
- Dublin,
- Ireland.
-http://ceur-ws.org/Vol-2259/aics_21.pdf (slides available here)
-McHugh, C., McGann, M., Igou, E. R., Kinsella, E. L., (2018, July). Reasons or Rationalisations. London
