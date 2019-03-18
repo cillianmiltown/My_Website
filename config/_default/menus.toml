@@ -28,6 +28,12 @@
   url = "/tutorial/"
   weight = 50
 
+
+[[main]]
+  name = "Other Interests"
+  url = "/other/"
+  weight = 50
+
 [[main]]
   name = "Contact"
   url = "#contact"
