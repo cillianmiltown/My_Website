@@ -66,7 +66,3 @@ preserveTaxonomyNames = true
   publication_type = "publication_types"
   author = "authors"
 
-#[params]
-  # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-color_theme = "dark"
