@@ -16,7 +16,7 @@ role = "Lecturer in Psychology"
 organizations = [ { name = "University of Limerick", url = "https://www.ul.ie/psychology/staff/mchugh-cillian-dr" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My interests include Moral Psychology, Categorisation, R, and Music."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
